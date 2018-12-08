@@ -1,0 +1,9 @@
+{
+    "name": "mdnoga/AdventOfCode2018",
+    "autoload": {
+        "psr-4": {"AdventOfCode\\": "src/"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
